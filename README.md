@@ -7,7 +7,7 @@ This Streamlit web app leverages Google's GenerativeAI service (Gemini-Pro) to c
 
 ## Run on Streamlit  
 You can try this app on Streamlit:  
-[Recipe cretor](https://nutrients-tracker.streamlit.app)
+[Recipe cretor](https://recipe-creator.streamlit.app)
 
 
 ## 1. Features:
